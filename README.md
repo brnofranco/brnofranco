@@ -1,11 +1,11 @@
 # Olá! 👋
  
-### Formação📚:
+### 📚 Formação:
 - Técnico em Informática para Internet
-- Graduando Análise e Desenvolvimento de Sistemas (1/6)
+- Graduando Análise e Desenvolvimento de Sistemas (2/6)
 
-### Estudando💻:
-- Desenvolvimento Web (JS, HTML, CSS, Node)
+### 💻 Estudando:
+- Desenvolvimento Web (Foco em Front-end com ReactJS)
 - Desenvolvimento pessoal
 
 ### Minhas redes:
