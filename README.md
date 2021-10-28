@@ -18,6 +18,7 @@
  <a href="https://www.linkedin.com/in/brunofmoraes/" target="_blank">
    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
  </a>
+ <br>
  <a href="https://www.instagram.com/brnofranco/" target="_blank">
    <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
  </a>
