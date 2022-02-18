@@ -6,19 +6,26 @@
 
 <h2>📚 Formação</h2>
  <li>Técnico em Informática para Internet</li>
- <li>Graduando Análise e Desenvolvimento de Sistemas (2/6)</li>
+ <li>Graduando Análise e Desenvolvimento de Sistemas (3/6)</li>
 <br>
 
 <h2>💻 Estudando</h2>
- <li>Desenvolvimento Web (JS, TS, React, Node)</li>
+<ul>
+ <li>Desenvolvimento Web
+     <ul> 
+          <li>TypeScript</li>
+          <li>Node.js</li>
+          <li>Java</li>
+     </ul> 
+ </li>
  <li>Desenvolvimento pessoal</li>
+ </ul>
 <br>
 
 <h2>💬 Minhas redes</h2>
  <a href="https://www.linkedin.com/in/brunofmoraes/" target="_blank">
    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
  </a>
- <br>
  <a href="https://www.instagram.com/brnofranco/" target="_blank">
    <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
  </a>
