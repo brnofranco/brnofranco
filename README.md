@@ -1,25 +1,27 @@
-<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/brnofranco/cbb9872e4606b97d429f32ad5d4af33c/raw/9e4c9f5ca8deaf7625c7d7e1d654e89273c56328/githubcardtest.svg"></img>
+<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/brnofranco/339f0fcd2ea851a7342cc3131d558b33/raw/7ec2a096792c4150ef4e7749fc62c2e9c30c737e/githubcardtest.svg"></img>
 
 <h1>Hello World! 👋</h1>
  <li>Prazer, sou Bruno, amante da tecnologia e das boas músicas da vida!</li>
-<br>
-
-<h2>📚 Formação</h2>
- <li>Técnico em Informática para Internet</li>
- <li>Graduando Análise e Desenvolvimento de Sistemas (3/6)</li>
 <br>
 
 <h2>💻 Estudando</h2>
 <ul>
  <li>Desenvolvimento Web
      <ul> 
+          <li>JavaScript</li>
           <li>TypeScript</li>
+          <li>Next.js</li>
           <li>Node.js</li>
           <li>Java</li>
      </ul> 
  </li>
  <li>Desenvolvimento pessoal</li>
  </ul>
+<br>
+
+<h2>📚 Formação</h2>
+ <li>Técnico em Informática para Internet</li>
+ <li>Graduando Análise e Desenvolvimento de Sistemas (3/6)</li>
 <br>
 
 <h2>💬 Minhas redes</h2>
