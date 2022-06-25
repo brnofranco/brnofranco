@@ -1,7 +1,7 @@
 <img align="right" height="590em" src="https://raw.githubusercontent.com/gist/brnofranco/339f0fcd2ea851a7342cc3131d558b33/raw/7ec2a096792c4150ef4e7749fc62c2e9c30c737e/githubcardtest.svg"></img>
 
 <h1>Hello World! 👋</h1>
- <li>Prazer, sou Bruno, amante da tecnologia e das boas músicas da vida!</li>
+ <li>Prazer, sou Bruno!</li>
 <br>
 
 <h2>💻 Estudando</h2>
@@ -21,7 +21,7 @@
 
 <h2>📚 Formação</h2>
  <li>Técnico em Informática para Internet</li>
- <li>Graduando Análise e Desenvolvimento de Sistemas (3/6)</li>
+ <li>Graduando Análise e Desenvolvimento de Sistemas (4/6)</li>
 <br>
 
 <h2>💬 Minhas redes</h2>
