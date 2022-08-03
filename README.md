@@ -37,4 +37,9 @@
 <div align="center">
  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=brnofranco&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=dark" />
  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brnofranco&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=dark" alt="linguagens mais usadas do bruno"/>	
+
+ <br />
+ <a href="https://www.codewars.com/users/brnofranco" target="_blank">
+   <img src="https://www.codewars.com/users/brnofranco/badges/large" />
+ </a>
 </div>
