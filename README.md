@@ -6,22 +6,14 @@
 
 <h2>💻 Estudando</h2>
 <ul>
- <li>Desenvolvimento Web
-     <ul> 
-          <li>JavaScript</li>
-          <li>TypeScript</li>
-          <li>Next.js</li>
-          <li>Node.js</li>
-          <li>Java</li>
-     </ul> 
- </li>
+ <li>Desenvolvimento Web</li>
  <li>Desenvolvimento pessoal</li>
- </ul>
+</ul>
 <br>
 
 <h2>📚 Formação</h2>
  <li>Técnico em Informática para Internet</li>
- <li>Graduando Análise e Desenvolvimento de Sistemas (4/6)</li>
+ <li>Graduando Análise e Desenvolvimento de Sistemas (5/6)</li>
 <br>
 
 <h2>💬 Minhas redes</h2>
