@@ -14,8 +14,8 @@
 <br>
 
 <h2>📚 Formação</h2>
- <li>Técnico em Informática para Internet (2020)</li>
- <li>Graduando Análise e Desenvolvimento de Sistemas (5/6)</li>
+ <li>Técnico em Informática para Internet</li>
+ <li>Graduando Análise e Desenvolvimento de Sistemas (6/6)</li>
 <br>
 
 <h2>🌀 Codewars</h2>
