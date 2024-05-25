@@ -1,34 +1,11 @@
-<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/brnofranco/339f0fcd2ea851a7342cc3131d558b33/raw/7ec2a096792c4150ef4e7749fc62c2e9c30c737e/githubcardtest.svg"></img>
+<h1> Bruno Franco </h1>
+"Today I want to be better than yesterday, and tomorrow I want to surpass who I was today."
 
-<h1>Hello World! 👋</h1>
-<ul>
- <li>Prazer, sou Bruno!</li>
-</ul>
-<br>
+<h3> Full Stack Developer </h3>
 
-<h2>💻 Estudando</h2>
-<ul>
- <li>Desenvolvimento Web</li>
- <li>Desenvolvimento pessoal</li>
-</ul>
-<br>
+Experienced in React.js, Node.js and TypeScript <br> And played with other techs
 
-<h2>📚 Formação</h2>
- <li>Técnico em Informática para Internet</li>
- <li>Tecnologo em Análise e Desenvolvimento de Sistemas</li>
-<br>
-
-<h2>🌀 Codewars</h2>
- <a href="https://www.codewars.com/users/brnofranco" target="_blank">
-   <img src="https://www.codewars.com/users/brnofranco/badges/large" />
- </a>
-
-<hr>
-
-<div align="center">
- <img height="160em" src="https://github-readme-stats.vercel.app/api?username=brnofranco&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=dark" />
- <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brnofranco&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=dark" alt="linguagens mais usadas do bruno"/>	
-
- <br />
-
-</div>
+[![Portfolio Badge](https://img.shields.io/badge/-Portfolio-1?style=for-the-badge&logo=React&logoColor=white&labelColor=%23232427&color=%232cb67d)](https://brnofranco.vercel.app/) 
+[![Blog Badge](https://img.shields.io/badge/-Blog-1?style=for-the-badge&logo=Blogger&logoColor=white&labelColor=%23232427&color=%232cb67d)](https://brnoblog.vercel.app/) 
+[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-1?style=for-the-badge&logo=Linkedin&labelColor=%23232427&color=%232cb67d)](https://www.linkedin.com/in/brunofmoraes/)
+[![Email Badge](https://img.shields.io/badge/-Email-1?style=for-the-badge&logo=GMail&logoColor=white&labelColor=%23232427&color=%232cb67d)](mailto:brunofrancodemoraes@gmail.com)
