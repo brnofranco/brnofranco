@@ -6,5 +6,4 @@
 Experienced in React.js, Node.js and TypeScript <br> And played with other techs
 
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-1?style=for-the-badge&logo=Linkedin&labelColor=%23232427&color=%232cb67d)](https://www.linkedin.com/in/brunofmoraes/)
-[![Portfolio Badge](https://img.shields.io/badge/-Portfolio-1?style=for-the-badge&logo=React&logoColor=white&labelColor=%23232427&color=%232cb67d)](https://brnofranco.vercel.app/) 
-[![Blog Badge](https://img.shields.io/badge/-Blog-1?style=for-the-badge&logo=Blogger&logoColor=white&labelColor=%23232427&color=%232cb67d)](https://brnoblog.vercel.app/) 
+[![Blog Badge](https://img.shields.io/badge/-Site%20Pessoal-1?style=for-the-badge&logo=Blogger&logoColor=white&labelColor=%23232427&color=%232cb67d)](https://brnofranco.com.br/) 
